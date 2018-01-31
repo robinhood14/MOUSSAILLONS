@@ -7,8 +7,6 @@ Dans ce projet, l'idée est de créer un site qui va recenser les moussaillons d
 
 Sur une page d'édition des moussaillons, il est possible de mettre à jour une bio, un pseudo slack et/ou Github, et/ou de supprimer le moussaillon de la base. On y intégrera différent paramètres, par ex : si un utilisateur rentre un prénom vide en prénom par exemple.
 
-Il est 22h00, la motivation est là mais la concentration me fait défault. 
-
-Bonne correction ! ;) 
+Il est 22h00, la motivation est là mais la concentration me fait défault. Le projet n'en est donc qu'à son début. ;) 
 
 https://tranquil-basin-57539.herokuapp.com
